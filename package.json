@@ -1,0 +1,16 @@
+{
+  "name": "the-beauty-of-design-patterns",
+  "version": "1.0.0",
+  "main": "dist/app.js",
+  "repository": "https://github.com/joshuazhu/The-Beauty-Of-Design-Patterns-In.git",
+  "author": "Josh Zhu <josh.zhu@acloud.guru>",
+  "license": "MIT",
+  "devDependencies": {
+    "tslint": "^6.1.1",
+    "typescript": "^3.8.3"
+  },
+  "scripts": {
+    "start": "tsc && node dist/app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
